@@ -3,7 +3,7 @@
 <p align="left">
     <img src="https://raw.githubusercontent.com/eunchanboss/gtalk/master/app/src/main/res/fig/logo.PNG" alt="gtalk logo" width="300" height="200">
     <br>
-    간단한 sns application 에 번역기능이 추가된 global sns application 입니다. 
+    간단한 sns application 에 번역기능이 추가된 global sns application 입니다.
 </p>
 
 
@@ -62,4 +62,5 @@
 ## 참고사항
 
 - 파이어베이스 키 문서에 해당하는 google-services.json문서는 삭제했습니다.
+- 개발은 혼자 진행했으며 개발기간은 약 1개월정도 걸렸습니다.
 
