@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/layout"
+    >
+
+    <!--<View        android:layout_width="wrap_content"-->
+        <!--android:layout_height="1dp"-->
+        <!--android:id="@+id/imageViewleft"-->
+        <!--android:background="#888888"-->
+        <!--android:layout_weight="1"-->
+        <!--android:layout_margin="10dp" />-->
+
+    <!--<TextView        android:id="@+id/text"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textColor="#000000"-->
+        <!--android:text ="text"        />-->
+
+    <!--<View        android:layout_width="wrap_content"-->
+        <!--android:layout_height="1dp"-->
+        <!--android:id="@+id/imageViewright"-->
+        <!--android:background="#888888"-->
+        <!--android:layout_weight="1"-->
+        <!--android:layout_margin="10dp" />-->
+
+    <TextView
+        android:id="@+id/fMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:visibility="gone"
+        android:background="@color/colorAccent"
+        android:text="TextView"
+        android:textColor="#fff"/>
+
+    <TextView
+        android:id="@+id/Message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:visibility="gone"
+        android:background="@color/colorPrimary"
+        android:layout_gravity="right"
+        android:text="TextView"
+        android:textColor="#fff"/>
+</LinearLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "194017825933",
+    "firebase_url": "https://gtalk-9ff0a.firebaseio.com",
+    "project_id": "gtalk-9ff0a",
+    "storage_bucket": "gtalk-9ff0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194017825933:android:2cf82c3a76f20d81",
+        "android_client_info": {
+          "package_name": "com.example.dldmd.gtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194017825933-45ecliut6aesnhf13ogdurlka8kubvbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dldmd.gtalk",
+            "certificate_hash": "9328295bc4133a5c0d7393cb7a0ea32530180eee"
+          }
+        },
+        {
+          "client_id": "194017825933-p49u6e668jv45ooaovs5uq4hlbedbse9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ogqp3czqbMOHrCptqNW0xvc31yuONIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194017825933-p49u6e668jv45ooaovs5uq4hlbedbse9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
